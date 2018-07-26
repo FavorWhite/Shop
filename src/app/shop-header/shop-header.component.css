@@ -1,0 +1,17 @@
+.logo-wrapper{
+    text-align:center;
+}
+.logo{
+    margin-bottom: 0;
+}
+.logo a{
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.logo a:hover{
+    text-decoration: none;
+}

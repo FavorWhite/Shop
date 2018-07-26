@@ -1,0 +1,8 @@
+.container-flex {
+    display: flex;
+    justify-content: center;
+}
+.category-block-wrapper{
+    max-width: 1440px;
+    display: flex;
+}
